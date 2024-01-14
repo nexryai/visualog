@@ -1,4 +1,4 @@
-package logger
+package visualog
 
 import (
 	"fmt"
